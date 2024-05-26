@@ -1,0 +1,24 @@
+{
+  "name": "oopts",
+  "version": "1.0.0",
+  "description": "oop in typescript",
+  "main": "index.js",
+  "bin": {
+    "oopts": "bin/index.js"
+  },
+  "scripts": {
+    "test": "\\*Echo*\\"
+  },
+  "keywords": [
+    "oop",
+    "typescript",
+    "inquirer",
+    "chalk"
+  ],
+  "author": "samiya marium",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0"
+  }
+}
